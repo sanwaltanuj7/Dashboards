@@ -4,7 +4,7 @@ An interactive **Netflix Data Analysis Dashboard** built using **Microsoft Power
 The dashboard provides an overview of Netflix movies and TV shows, with filters for show type, release year, and country.
 
 ## 📊 Dashboard Preview
-
+![Netflix Dashboard Preview](dashboard-preview(1))
 ![Netflix Dashboard Preview](dashboard-preview.png)
 
 ## 🔍 Dashboard Features
